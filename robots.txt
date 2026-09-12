@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://vidalstudiotattoo.com.br/sitemap.xml
