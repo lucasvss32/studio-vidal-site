@@ -8,4 +8,4 @@
 :HL["/artistas/lucas-augusto/perfil.jpg","image"]
 :HL["/artistas/andre-lavall/perfil.jpg","image"]
 :HL["/artistas/kalli/perfil.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"QKvWML-_u2iv_zJOAQlPr"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"CslvIvM_QUxvAEnUXyc4z"}
