@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0r72zxh0zx0b0.css","style"]
+:HL["/_next/static/chunks/03-sf3tj4qh9f.css","style"]
 :HL["/_next/static/media/7178b3e590c64307-s.p.21jp631_3pja2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/fabcf92ba1ccea36-s.p.1w_qz2ahumqmz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +8,4 @@
 :HL["/artistas/lucas-augusto/perfil.jpg","image"]
 :HL["/artistas/andre-lavall/perfil.jpg","image"]
 :HL["/artistas/kalli/perfil.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"g_Vy4NR52Peyn7UNtBZEF"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"VtxYyxYcTlRUws2lpX7KI"}
