@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/03-sf3tj4qh9f.css","style"]
+:HL["/_next/static/chunks/1rlsr5v13dacz.css","style"]
 :HL["/_next/static/media/7178b3e590c64307-s.p.21jp631_3pja2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/fabcf92ba1ccea36-s.p.1w_qz2ahumqmz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/artistas/lucas-augusto/perfil.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"artistas","param":null,"prefetchHints":4192,"slots":{"children":{"name":"lucas-augusto","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"f5JcEqtIGuoFtXp1a_8Ro"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"artistas","param":null,"prefetchHints":4192,"slots":{"children":{"name":"lucas-augusto","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"GbE1r9WMmCcEH7stA8FK3"}
